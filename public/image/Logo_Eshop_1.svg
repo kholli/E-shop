@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="101px" viewBox="0 0 187 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo_Eshop</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-1.000000, 2.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="10" cx="91" cy="49" r="36"></circle>
+            <path d="M139,49 C139,22.490332 117.509668,1 91,1" id="Path" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M43,49 C43.4642644,75.976348 65.4023116,97.4632802 92,96.9924063" id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            <ellipse id="Oval" fill="#FFFAFA" cx="86" cy="1.5" rx="2" ry="1.5"></ellipse>
+            <ellipse id="Oval" fill="#FFFAFA" cx="137.5" cy="59" rx="1.5" ry="1"></ellipse>
+            <circle id="Oval" fill="#FFFAFA" cx="81" cy="3" r="1"></circle>
+            <circle id="Oval" fill="#FFFAFA" cx="100" cy="95" r="1"></circle>
+            <ellipse id="Oval" fill="#FFFAFA" cx="44.5" cy="41" rx="1" ry="1"></ellipse>
+            <circle id="Oval" fill="#FFFAFA" cx="138.5" cy="54.5" r="1.5"></circle>
+            <circle id="Oval" fill="#FFFAFA" cx="96" cy="96" r="1"></circle>
+            <circle id="Oval" fill="#FFFAFA" cx="43" cy="45" r="1"></circle>
+            <text id="S" stroke="#F8F2F2" stroke-width="3" font-family="Aldrich-Regular, Aldrich" font-size="36" font-weight="normal" fill="#FFFFFF">
+                <tspan x="79" y="61">S</tspan>
+            </text>
+            <text id="e" stroke="#FFFFFF" stroke-width="3" font-family="Aldrich-Regular, Aldrich" font-size="36" font-weight="normal" fill="#FBF6F6">
+                <tspan x="0" y="61">e</tspan>
+            </text>
+            <text id="ko" stroke="#FFFFFF" stroke-width="3" font-family="Aldrich-Regular, Aldrich" font-size="36" font-weight="normal" fill="#FBF6F6">
+                <tspan x="148" y="61">ko</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

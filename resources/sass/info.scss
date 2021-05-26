@@ -1,0 +1,26 @@
+
+.about{
+    padding-top: 35px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+
+.info-section{
+
+    font-size:medium;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 25%;
+    //padding: 100px 0 120px;
+
+    .product-section-text{
+        padding-left: 20%;
+
+        h5{
+            font-weight: bold;
+        }
+    }
+
+
+}

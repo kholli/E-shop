@@ -1,0 +1,59 @@
+
+
+.mac-section{
+
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin: 100px auto 82px;
+    padding-top: 2%;
+
+    .sidebar li.active {
+        font-weight: 500;
+
+    }
+
+    .sidebar{
+        padding-top: 45%;
+        a{
+            color:#535353;
+        }
+
+        li{
+           font-size:medium;
+        }
+
+    }
+
+    .products {
+        padding-top: 5%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 60px;
+
+
+    }
+
+}
+
+
+
+.products .product-mac {
+    //just for information border: 0.1px solid rgb(182, 182, 182);
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  border: 0.5px solid rgb(221, 221, 221);
+  border-radius: 2%;
+
+
+      .picture{
+          margin-bottom: 5%;
+      }
+
+      .Information{
+          margin-top: 10px;
+      }
+
+
+
+}
